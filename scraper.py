@@ -36,7 +36,7 @@ keywords = ["Marion Marechal", "Princess Kako of Akishino", "Alexandria Ocasio C
 # Replace with your service account key file path
 service_account_key_path = "/path/to/your/service_account_key.json"
 # Define the Google Translate API key
-api_key = "AIzaSyBRHd1m3NmA7yrKRzhsmxTXI0qOifY_BNM"
+api_key = ""
 # Initialize the Translator object
 translator = Translator(service_urls=['translate.google.com'], credentials=api_key)
 # Translate a text from French to English
